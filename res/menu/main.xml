@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Use the constants defined in the ContextualMenus.Command enum-->
+    <item
+        android:id="@+id/nearestdocks"
+        android:title="@string/nearest_docks">
+    </item>
+        <item
+        android:id="@+id/direction"
+        android:title="@string/get_direction">
+    </item>
+</menu>
